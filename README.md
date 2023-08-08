@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=alejandra-0lv3ra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 
-[![]("https://giphy.com/embed/o0vwzuFwCGAFO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO")
+[![](https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO")
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alejandra-0lv3ra&icon=0&color=0)](https://visitcount.itsvg.in)
