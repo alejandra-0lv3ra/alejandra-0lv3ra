@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on Frontend development, Phyton, and UX/UI.<br>👯 I want to collaborate on exciting user-friendly projects and IA that will change the world!!<br>🤝 I’m seeking help to be a better frontend and IA programmer.<br>🌱 I’m currently learning to be a frontend and IA programmer.<br>💬 Ask me about anything related to UX/UI design.<br>⚡ Fun fact: I spend more time studying and going to the movies than hours of sleep.
+🔭 I’m working on Frontend development, Phyton, and UX/UI.<br>👯 I want to collaborate on exciting user-friendly projects and IA that will change the world!!<br>🤝 I’m seeking help to be a better developer with IA and UX UI focus.<br>🌱 I’m currently learning to be a data scientist.<br>💬 Ask me about anything related to UX/UI design.<br>⚡ Fun fact: I spend more time studying and going to the movies than hours of sleep.
 
 
 ## 🌐 Socials:
